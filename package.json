@@ -1,0 +1,22 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredeggs/node-intro.git"
+  },
+  "author": "Ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredeggs/node-intro/issues"
+  },
+  "homepage": "https://github.com/Fredeggs/node-intro#readme",
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
